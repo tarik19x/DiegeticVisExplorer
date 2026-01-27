@@ -1,72 +1,55 @@
-<!-- =======================
-DiegeticVisExplorer README
-Minimal + academic styling
-======================== -->
-
-<div align="center">
-
 # DiegeticVisExplorer
 
-**Interactive companion to _SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality_ (CHI ’26).**
-
-<br>
-
-<a href="https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/">
-  <img alt="Launch Web App" src="https://img.shields.io/badge/Launch%20Web%20App-1f6feb?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<br><br>
-
-**https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/**
-
-</div>
-
----
+[Launch the Interactive WebApp](https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/)
 
 ## Overview
 
-DiegeticVisExplorer is a lightweight research tool for **examining diegesis in AR-based situated visualizations**.  
-It supports exploration of the **SCORE** framework and a corpus of **67** examples, enabling structured comparison of design strategies beyond spatial placement alone.
+DiegeticVisExplorer is the digital companion to the research paper SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality.
 
----
+The promise of Augmented Reality (AR) is to bridge the gap between digital data and the physical world. However, placing a visualization near an object does not ensure it feels like it truly belongs there. To address this, we introduce diegesis as a theoretical lens, measuring the extent to which a visualization appears as an intrinsic part of the physical environment rather than a superimposed artifact.
 
-## SCORE framework
+This interactive tool allows researchers and designers to explore the SCORE framework dynamically, enabling the inspection of distinct design strategies across a corpus of 67 situated visualizations.
+
+## The Framework
 
 <div align="center">
-  <img src="path/to/your/figure.png" alt="SCORE framework dimensions" width="820">
+  <img src="path/to/your/figure.png" alt="SCORE Framework Dimensions" width="800">
   <br>
-  <sub><em>The five dimensions operationalized by SCORE.</em></sub>
+  <em>Figure: The five dimensions of the SCORE framework.</em>
 </div>
-
 <br>
 
-SCORE quantifies diegesis along five dimensions:
+The SCORE framework quantifies diegesis across five distinct dimensions, moving beyond binary classifications to offer a granular spectrum of integration:
 
-- **Spatial Proximity** — spatial coupling between visualization and referent  
-- **Concreteness** — resemblance to real-world objects vs. abstract marks  
-- **Coherence** — consistency with plausible behavior and user expectations  
-- **Referential Context** — semantic linkage to the specific physical referent  
-- **Environmental Context** — alignment with the broader physical environment  
+* **Spatial Proximity:** The degree of spatial integration between the visualization and its referent.
+* **Concreteness:** The level of visual resemblance to real-world objects versus abstract representations.
+* **Coherence:** The consistency of the visualization's behavior and appearance with the user's mental model.
+* **Referential Context:** The strength of the semantic link to the specific physical referent.
+* **Environmental Context:** The conceptual alignment with the broader physical environment.
 
----
+## Identified Design Archetypes
 
-## Design archetypes
+Through cluster analysis, the research identifies five categories of diegetic design, which can be explored within the application:
 
-Cluster analysis identifies five archetypes:
-
-1. **Contextual** — highly diegetic, concrete metaphors grounded in place  
-2. **Integrated** — abstract data embedded onto physical surfaces  
-3. **Hypernatural** — blended with reality while exhibiting impossible properties  
-4. **Superimposed** — floating overlays prioritizing visibility  
-5. **Proximal** — helper information near a referent, analytically separate  
-
----
+1. **Contextual:** Highly diegetic designs utilizing concrete metaphors.
+2. **Integrated:** Abstract data perfectly embedded onto physical surfaces.
+3. **Hypernatural:** Visualizations that blend reality with impossible properties.
+4. **Superimposed:** Data that hovers or floats, prioritizing visibility over integration.
+5. **Proximal:** Helper information situated near an object but analytically distinct.
 
 ## Publication
 
-**SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality** (CHI ’26)  
-Tarik Hasan · Khalad Hasan · Barrett Ens — The University of British Columbia
+<table>
+  <tr>
+    <td align="center">
+      <b>SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality</b>
+      <br><br>
+      Tarik Hasan, Khalad Hasan, and Barrett Ens
+      <br>
+      <i>The University of British Columbia</i>
+    </td>
+  </tr>
+</table>
 
 ---
-
-<sub>UBC · Supported by NSERC and CFI.</sub>
+*This work was conducted at the University of British Columbia, supported by NSERC and CFI.*
