@@ -1,6 +1,6 @@
 # DiegeticVisExplorer
 
-### **[Launch the Interactive WebApp](https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/)** 👈
+### **[Launch the Interactive WebApp](https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/)**
 
 ---
 
