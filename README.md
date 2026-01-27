@@ -6,16 +6,24 @@
 
 ## Overview
 
-DiegeticVisExplorer is the digital companion to the research paper SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality.
+**DiegeticVisExplorer** is an interactive companion tool for the research paper *"SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality"* (CHI '26).
 
-The promise of Augmented Reality (AR) is to bridge the gap between digital data and the physical world. However, placing a visualization near an object does not ensure it feels like it truly belongs there. To address this, we introduce diegesis as a theoretical lens, measuring the extent to which a visualization appears as an intrinsic part of the physical environment rather than a superimposed artifact.
+While Augmented Reality (AR) allows us to place data anywhere, not all visualizations feel like they "belong" in the real world. This project explores **diegesis**—a concept borrowed from narratology and game design—to measure how seamlessly a visualization integrates into its physical environment.
 
-This interactive tool allows researchers and designers to explore the SCORE framework dynamically, enabling the inspection of distinct design strategies across a corpus of 67 situated visualizations.
+This tool allows researchers and designers to navigate the **SCORE framework** dynamically, moving beyond static paper figures to explore a corpus of 67 real-world situated visualizations.
 
-## The Framework
+## 🎯 What Does This Tool Do?
+
+The DiegeticVisExplorer visualizes a design space defined by **SCORE**, a quantitative framework that assesses AR visualizations across five dimensions. Using this tool, you can:
+
+* **Explore Design Clusters:** Rotate and inspect a 3D plot of visualization examples to see how different design strategies group together.
+* **Analyze Trade-offs:** Compare "Contextual" designs (highly immersive) against "Proximal" designs (highly analytical) to understand the trade-offs between immersion and information bandwidth.
+* **Inspect Real Examples:** Click on individual data points to see the specific AR visualization and its detailed SCORE profile.
+
+## 🔬 The SCORE Framework
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dolt8nnzc/image/upload/v1769557711/SCORE_FRAMEWORK_lre1eh.png" alt="SCORE Framework Dimensions" width="800">
+  <img src="path/to/your/figure.png" alt="SCORE Framework Dimensions" width="800">
   <br>
   <em>Figure: The five dimensions of the SCORE framework.</em>
 </div>
