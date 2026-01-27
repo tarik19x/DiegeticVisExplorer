@@ -13,7 +13,7 @@ This interactive tool allows researchers and designers to explore the SCORE fram
 ## The Framework
 
 <div align="center">
-  <img src="[path/to/your/figure.png](https://res.cloudinary.com/dolt8nnzc/image/upload/v1769557711/SCORE_FRAMEWORK_lre1eh.png)" alt="SCORE Framework Dimensions" width="800">
+  <img src="https://res.cloudinary.com/dolt8nnzc/image/upload/v1769557711/SCORE_FRAMEWORK_lre1eh.png" alt="SCORE Framework Dimensions" width="800">
   <br>
   <em>Figure: The five dimensions of the SCORE framework.</em>
 </div>
