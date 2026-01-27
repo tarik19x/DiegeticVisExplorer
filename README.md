@@ -1,9 +1,8 @@
 # DiegeticVisExplorer
 
-[Launch the Interactive WebApp](https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/)
+[![Launch the Interactive WebApp](https://img.shields.io/badge/Launch_the_Interactive_WebApp-009fb8?style=flat&labelColor=009fb8&logo=google-chrome&logoColor=white)](https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/)
 
 ## Overview
-
 DiegeticVisExplorer is the digital companion to the research paper SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality.
 
 The promise of Augmented Reality (AR) is to bridge the gap between digital data and the physical world. However, placing a visualization near an object does not ensure it feels like it truly belongs there. To address this, we introduce diegesis as a theoretical lens, measuring the extent to which a visualization appears as an intrinsic part of the physical environment rather than a superimposed artifact.
