@@ -1,6 +1,10 @@
 # DiegeticVisExplorer
 
-[![Launch the Interactive WebApp](https://img.shields.io/badge/Launch_the_Interactive_WebApp-009fb8?style=flat&labelColor=009fb8&logo=google-chrome&logoColor=white)](https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/)
+<a href="https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Launch_the_Interactive_WebApp-009fb8?style=flat&logo=google-chrome&logoColor=white" height="35" alt="Launch WebApp">
+</a>
+
+## Overview
 
 ## Overview
 DiegeticVisExplorer is the digital companion to the research paper SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality.
