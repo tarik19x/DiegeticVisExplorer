@@ -43,17 +43,11 @@ Through cluster analysis, the research identifies five categories of diegetic de
 
 ## Publication
 
-<table>
-  <tr>
-    <td align="center" style="background-color: #f6f8fa;">
-      <b>SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality</b>
-      <br><br>
-      Tarik Hasan, Khalad Hasan, and Barrett Ens
-      <br>
-      <i>The University of British Columbia</i>
-    </td>
-  </tr>
-</table>
+> **SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality**
+>
+> *Tarik Hasan, Khalad Hasan, and Barrett Ens*
+> <br>
+> *The University of British Columbia*
 
 ---
 *This work was conducted at the University of British Columbia, supported by NSERC and CFI.*
