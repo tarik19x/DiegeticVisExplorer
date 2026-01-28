@@ -45,7 +45,7 @@ Through cluster analysis, the research identifies five categories of diegetic de
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="background-color: #f6f8fa;">
       <b>SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality</b>
       <br><br>
       Tarik Hasan, Khalad Hasan, and Barrett Ens
