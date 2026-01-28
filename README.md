@@ -1,7 +1,11 @@
 # DiegeticVisExplorer
 
-<a href="https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Launch_the_Interactive_WebApp-009fb8?style=flat&logo=google-chrome&logoColor=white" height="35" alt="Launch WebApp">
+<a href="https://diegetic-visualization-9fe29b4fb6ba.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Launch%20the%20Interactive%20WebApp-009fb8?style=flat&logo=google-chrome&logoColor=white"
+    height="35"
+    alt="Launch WebApp"
+  >
 </a>
 
 ## Overview
@@ -17,10 +21,15 @@ The DiegeticVisExplorer plots 67 visualizations in a 3D space where the axes rep
 ## The Framework
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dolt8nnzc/image/upload/v1769557711/SCORE_FRAMEWORK_lre1eh.png" alt="SCORE Framework Dimensions" width="800">
+  <img
+    src="https://res.cloudinary.com/dolt8nnzc/image/upload/v1769557711/SCORE_FRAMEWORK_lre1eh.png"
+    alt="SCORE Framework Dimensions"
+    width="800"
+  >
   <br>
   <em>Figure: The five dimensions of the SCORE framework.</em>
 </div>
+
 <br>
 
 The SCORE framework quantifies diegesis across five distinct dimensions, moving beyond binary classifications to offer a granular spectrum of integration:
@@ -43,11 +52,18 @@ Through cluster analysis, the research identifies five categories of diegetic de
 
 ## Publication
 
-> **SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality**
->
-> *Tarik Hasan, Khalad Hasan, and Barrett Ens*
-> <br>
-> *The University of British Columbia*
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="background-color: #f6f8fa; padding: 14px 16px; border: 1px solid #d0d7de; border-radius: 8px;">
+      <b>SCORE: A Framework for Quantifying Diegesis in Situated Visualization for Augmented Reality</b>
+      <br><br>
+      Tarik Hasan, Khalad Hasan, and Barrett Ens
+      <br>
+      <i>The University of British Columbia</i>
+    </td>
+  </tr>
+</table>
 
 ---
+
 *This work was conducted at the University of British Columbia, supported by NSERC and CFI.*
